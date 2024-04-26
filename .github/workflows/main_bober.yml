@@ -63,4 +63,4 @@ jobs:
           app-name: 'Bober'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3033C943894E413FB4792F497EF30D55 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0EF1C82D359841AC895A356C37B5309D }}
